@@ -1,4 +1,4 @@
-# Memory Game Project
+# Search Engine Project
 
 ## Table of Contents
 
